@@ -1,0 +1,2 @@
+TO DO:
+- always show number of one same item in the cart above the "Add to cart" button
